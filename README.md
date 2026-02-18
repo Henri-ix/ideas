@@ -5,3 +5,4 @@ If any of the ideas in particular interest you feel free to copy them or reach o
 ## Virtual Dentist
 ## Equidistant between points app
 ## Meeting Readiness (Computer Vision)
+## AI Agent that fine tunes Social Media Posts based on trends.
